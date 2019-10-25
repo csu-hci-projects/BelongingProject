@@ -1,0 +1,181 @@
+newmtl Underwear___Bottoms
+    Ns 10.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Underwear___Bottoms_diffuse.png
+    map_Ks femaleAvatar/Underwear___Bottoms_specular.png
+    map_Pm femaleAvatar/Underwear___Bottoms_metallic.png
+    map_Pr femaleAvatar/Underwear___Bottoms_roughness.png
+newmtl Biker_Jeans
+    Ns 2.000000
+    d 1.000000
+    Ka 0.588000 0.588000 0.588000
+    Kd 0.588000 0.588000 0.588000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd femaleAvatar/Biker_Jeans_diffuse.jpg
+    map_Pm femaleAvatar/Biker_Jeans_metallic.jpg
+    map_Pr femaleAvatar/Biker_Jeans_roughness.jpg
+newmtl Shirt
+    Ns 19.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Shirt_diffuse.png
+    map_Ks femaleAvatar/Shirt_specular.png
+    map_Pm femaleAvatar/Shirt_metallic.png
+    map_Pr femaleAvatar/Shirt_roughness.png
+newmtl Std_Eye_L
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Std_Eye_L_diffuse.jpg
+    map_Pm femaleAvatar/Std_Eye_L_metallic.jpg
+    map_Pr femaleAvatar/Std_Eye_L_roughness.jpg
+newmtl Std_Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Std_Skin_Head_diffuse.jpg
+    map_Pm femaleAvatar/Std_Skin_Head_metallic.png
+    map_Pr femaleAvatar/Std_Skin_Head_roughness.jpg
+newmtl Std_Skin_Body
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Std_Skin_Body_diffuse.jpg
+    map_Pm femaleAvatar/Std_Skin_Body_metallic.jpg
+    map_Pr femaleAvatar/Std_Skin_Body_roughness.jpg
+newmtl Std_Skin_Leg
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Std_Skin_Leg_diffuse.jpg
+    map_Pm femaleAvatar/Std_Skin_Leg_metallic.jpg
+    map_Pr femaleAvatar/Std_Skin_Leg_roughness.jpg
+newmtl Std_Eyelash
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Std_Eyelash_diffuse.jpg
+    map_D femaleAvatar/Std_Eyelash_opacity.jpg
+    map_Pm femaleAvatar/Std_Eyelash_metallic.jpg
+    map_Pr femaleAvatar/Std_Eyelash_roughness.jpg
+newmtl Std_Cornea_L
+    Ns 11.000000
+    d 0.800000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.000000 0.000000 0.000000
+    map_Kd femaleAvatar/Std_Cornea_L_diffuse.jpg
+    map_Pm femaleAvatar/Std_Cornea_L_metallic.jpg
+    map_Pr femaleAvatar/Std_Cornea_L_roughness.jpg
+newmtl Scalp_High_polytail
+    Ns 10.000000
+    d 1.000000
+    Ka 0.584314 0.584314 0.584314
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Scalp_High_polytail_diffuse.png
+    map_D femaleAvatar/Scalp_High_polytail_opacity.jpg
+    map_Bump femaleAvatar/Scalp_High_polytail_bump.jpg
+    map_Ks femaleAvatar/Scalp_High_polytail_specular.png
+    map_Pm femaleAvatar/Scalp_High_polytail_metallic.png
+    map_Pr femaleAvatar/Scalp_High_polytail_roughness.png
+newmtl Std_Tongue
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Std_Tongue_diffuse.jpg
+    map_Pm femaleAvatar/Std_Tongue_metallic.jpg
+    map_Pr femaleAvatar/Std_Tongue_roughness.jpg
+newmtl Std_Lower_Teeth
+    Ns 2.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd femaleAvatar/Std_Lower_Teeth_diffuse.jpg
+    map_Pm femaleAvatar/Std_Lower_Teeth_metallic.jpg
+    map_Pr femaleAvatar/Std_Lower_Teeth_roughness.jpg
+newmtl Std_Nails
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Std_Nails_diffuse.jpg
+    map_Pm femaleAvatar/Std_Nails_metallic.jpg
+    map_Pr femaleAvatar/Std_Nails_roughness.jpg
+newmtl Std_Upper_Teeth
+    Ns 2.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd femaleAvatar/Std_Upper_Teeth_diffuse.jpg
+    map_Pm femaleAvatar/Std_Upper_Teeth_metallic.jpg
+    map_Pr femaleAvatar/Std_Upper_Teeth_roughness.jpg
+newmtl High_polytail
+    Ns 10.000000
+    d 1.000000
+    Ka 0.584314 0.584314 0.584314
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/High_polytail_diffuse.png
+    map_D femaleAvatar/High_polytail_opacity.jpg
+    map_Bump femaleAvatar/High_polytail_bump.jpg
+    map_Ks femaleAvatar/High_polytail_specular.png
+    map_Pm femaleAvatar/High_polytail_metallic.png
+    map_Pr femaleAvatar/High_polytail_roughness.png
+newmtl Std_Skin_Arm
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Std_Skin_Arm_diffuse.jpg
+    map_Pm femaleAvatar/Std_Skin_Arm_metallic.jpg
+    map_Pr femaleAvatar/Std_Skin_Arm_roughness.jpg
+newmtl Std_Eye_R
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd femaleAvatar/Std_Eye_R_diffuse.jpg
+    map_Pm femaleAvatar/Std_Eye_R_metallic.jpg
+    map_Pr femaleAvatar/Std_Eye_R_roughness.jpg
+newmtl Std_Cornea_R
+    Ns 11.000000
+    d 0.800000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.000000 0.000000 0.000000
+    map_Kd femaleAvatar/Std_Cornea_R_diffuse.jpg
+    map_Pm femaleAvatar/Std_Cornea_R_metallic.jpg
+    map_Pr femaleAvatar/Std_Cornea_R_roughness.jpg
+newmtl Bra
+    Ns 11.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.000000 0.000000 0.000000
+    map_Kd femaleAvatar/Bra_diffuse.png
+    map_Ks femaleAvatar/Bra_specular.png
+    map_Pm femaleAvatar/Bra_metallic.png
+    map_Pr femaleAvatar/Bra_roughness.png
