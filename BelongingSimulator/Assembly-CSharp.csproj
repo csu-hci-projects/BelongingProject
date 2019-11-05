@@ -112,6 +112,7 @@
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
      <Compile Include="Assets\Scripts\characterController.cs" />
+     <Compile Include="Assets\Scripts\mouseMovement.cs" />
      <None Include="Assets\Models\MagicMirror\Prefab\MirrorShaderOld.shader" />
      <None Include="Assets\Models\Table and chair\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Models\Table and chair\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
