@@ -1,21 +1,23 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class characterController : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public int speed = 0;
+    // Use this for initialization
     void Start()
     {
-        Cursor.lockState = CursorLockMode.Locked;
     }
-
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown("escape"))
-        {
-            Cursor.lockState = CursorLockMode.None;
-        }
+        // get input data from keyboard or controller
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        float moveVertical = Input.GetAxis("Vertical");
+        // update player position based on input
+        Vector3 position = transform.position;
+        position.x += moveHorizontal * speed * Time.deltaTime;
+        position.z += moveVertical * speed * Time.deltaTime;
+        transform.position = position;
     }
 }
