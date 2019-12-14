@@ -8,3 +8,5 @@ Checkpoint 3: https://github.com/csu-hci-projects/BelongingProject/blob/master/C
 Checkpoint 4: https://youtu.be/ULvavEqI0Ag
 
 Checkpoint 5: https://youtu.be/sKV3-eYleEo
+
+Checkpoint 6: https://youtu.be/wSZvUX-BJAA
